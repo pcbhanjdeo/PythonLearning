@@ -1,0 +1,35 @@
+my_project/
+│
+├── src/
+│   └── my_project/
+│       ├── __init__.py
+│       ├── main.py
+│       ├── config.py
+│       ├── constants.py
+│       ├── exceptions.py
+│       ├── models.py
+│       ├── services.py
+│       ├── utils.py
+│       ├── database.py
+│       └── helpers/
+│           ├── __init__.py
+│           └── parser.py
+│
+├── tests/
+│   ├── test_services.py
+│   ├── test_database.py
+│   └── test_utils.py
+│
+├── docs/
+│
+├── scripts/
+│
+├── data/
+│
+├── logs/
+│
+├── requirements.txt
+├── pyproject.toml
+├── README.md
+├── .gitignore
+└── LICENSE
