@@ -1,0 +1,31 @@
+Python syntax
+     ↓
+Python mental model
+     ↓
+Functions + data structures
+     ↓
+Modules + packages
+     ↓
+OOP + protocols
+     ↓
+Exceptions + resource management
+     ↓
+Testing + debugging
+     ↓
+Files + OS + subprocesses
+     ↓
+Networking
+     ↓
+Concurrency
+     ↓
+asyncio
+     ↓
+Async network applications
+     ↓
+Architecture
+     ↓
+AI APIs / tools
+     ↓
+Agents
+     ↓
+Autonomous coding agents

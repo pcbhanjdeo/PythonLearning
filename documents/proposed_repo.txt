@@ -1,0 +1,183 @@
+PythonLearning/
+│
+├── README.md
+├── pyproject.toml
+├── .gitignore
+│
+├── documents/
+│   ├── learning_path.md
+│   ├── python_mental_model.md
+│   └── project_structure.txt
+│
+├── 01_fundamentals/
+│   ├── 01_hello_world/
+│   │   └── main.py
+│   ├── 02_variables/
+│   │   └── main.py
+│   ├── 03_types/
+│   │   └── main.py
+│   ├── 04_operators/
+│   │   └── main.py
+│   ├── 05_control_flow/
+│   │   └── main.py
+│   └── 06_input_output/
+│       └── main.py
+│
+├── 02_data_model/
+│   ├── 01_strings/
+│   ├── 02_lists/
+│   ├── 03_tuples/
+│   ├── 04_sets/
+│   ├── 05_dicts/
+│   ├── 06_comprehensions/
+│   ├── 07_mutability/
+│   ├── 08_identity_vs_equality/
+│   └── 09_copying/
+│
+├── 03_functions/
+│   ├── 01_functions/
+│   ├── 02_parameters/
+│   ├── 03_return_values/
+│   ├── 04_scope/
+│   ├── 05_first_class_functions/
+│   ├── 06_lambda/
+│   ├── 07_closures/
+│   ├── 08_decorators/
+│   └── 09_generators/
+│
+├── 04_modules_packages/
+│   ├── 01_import/
+│   ├── 02_modules/
+│   ├── 03_packages/
+│   ├── 04___init__/
+│   ├── 05___name__/
+│   ├── 06_virtual_environments/
+│   └── 07_project_layout/
+│
+├── 05_oop/
+│   ├── 01_classes/
+│   ├── 02_objects/
+│   ├── 03_instance_attributes/
+│   ├── 04_class_attributes/
+│   ├── 05_inheritance/
+│   ├── 06_polymorphism/
+│   ├── 07_dunder_methods/
+│   ├── 08_dataclasses/
+│   └── 09_composition/
+│
+├── 06_python_data_model/
+│   ├── 01_iterators/
+│   ├── 02_iterables/
+│   ├── 03_context_managers/
+│   ├── 04_descriptors/
+│   ├── 05_protocols/
+│   └── 06_typing/
+│
+├── 07_errors_resources/
+│   ├── 01_exceptions/
+│   ├── 02_custom_exceptions/
+│   ├── 03_logging/
+│   ├── 04_context_managers/
+│   ├── 05_files/
+│   └── 06_configuration/
+│
+├── 08_testing/
+│   ├── 01_pytest/
+│   ├── 02_unit_tests/
+│   ├── 03_mocking/
+│   ├── 04_fixtures/
+│   └── 05_property_testing/
+│
+├── 09_system_programming/
+│   ├── 01_os/
+│   ├── 02_pathlib/
+│   ├── 03_subprocess/
+│   ├── 04_environment/
+│   ├── 05_processes/
+│   └── 06_cli/
+│
+├── 10_networking/
+│   ├── 01_sockets/
+│   ├── 02_tcp/
+│   ├── 03_http/
+│   ├── 04_rest/
+│   ├── 05_json/
+│   └── 06_http_client/
+│
+├── 11_concurrency/
+│   ├── 01_threading/
+│   ├── 02_locks/
+│   ├── 03_queues/
+│   ├── 04_multiprocessing/
+│   ├── 05_futures/
+│   └── 06_race_conditions/
+│
+├── 12_asyncio/
+│   ├── 01_coroutines/
+│   ├── 02_await/
+│   ├── 03_tasks/
+│   ├── 04_event_loop/
+│   ├── 05_gather/
+│   ├── 06_cancellation/
+│   ├── 07_timeouts/
+│   ├── 08_queues/
+│   ├── 09_semaphores/
+│   └── 10_async_context_managers/
+│
+├── 13_async_networking/
+│   ├── 01_async_http/
+│   ├── 02_async_server/
+│   ├── 03_websocket/
+│   ├── 04_connection_pool/
+│   └── 05_async_pipeline/
+│
+├── 14_databases/
+│   ├── 01_sql/
+│   ├── 02_sqlite/
+│   ├── 03_transactions/
+│   ├── 04_connection_pooling/
+│   └── 05_async_database/
+│
+├── 15_architecture/
+│   ├── 01_dependency_injection/
+│   ├── 02_repository_pattern/
+│   ├── 03_service_layer/
+│   ├── 04_event_driven/
+│   └── 05_application_architecture/
+│
+├── 16_ai_programming/
+│   ├── 01_llm_api/
+│   ├── 02_prompting/
+│   ├── 03_structured_output/
+│   ├── 04_tool_calling/
+│   ├── 05_streaming/
+│   ├── 06_embeddings/
+│   └── 07_rag/
+│
+├── 17_agents/
+│   ├── 01_agent_loop/
+│   ├── 02_tools/
+│   ├── 03_memory/
+│   ├── 04_planning/
+│   ├── 05_reflection/
+│   ├── 06_multi_agent/
+│   ├── 07_async_agents/
+│   └── 08_agent_orchestrator/
+│
+├── 18_coding_agents/
+│   ├── 01_file_tool/
+│   ├── 02_shell_tool/
+│   ├── 03_git_tool/
+│   ├── 04_test_runner/
+│   ├── 05_code_reviewer/
+│   ├── 06_autonomous_loop/
+│   └── 07_self_improving_agent/
+│
+└── projects/
+    ├── 01_cli_tool/
+    ├── 02_async_web_crawler/
+    ├── 03_task_queue/
+    ├── 04_async_chat_server/
+    ├── 05_rag_system/
+    ├── 06_coding_agent/
+    └── 07_autonomous_software_engineer/
